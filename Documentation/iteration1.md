@@ -3,7 +3,7 @@
 * The term *boiler plate code* is used to describe code that almost all programs will need - common code.
 
 ## Step 0
-[Download the resources for Cave-Escape]()
+[Download the resources for Cave-Escape](https://github.com/itco-education/cave-escape/releases/download/resources/Resources.zip)
 
 ## Iteration One will look like:
 
