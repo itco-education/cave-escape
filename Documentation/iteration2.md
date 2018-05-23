@@ -63,4 +63,4 @@ Take a close look at the ```main()``` procedure. A few things have changed in or
 Now it's time for you to have a go at implementing iteration two on your own. As before, you'll have to type the instructions above into your text editor. Continue to try and resist the urge to copy and paste code if it arises, as typing it out helps to build your understanding of what the code is doing. When you're done, you'll need to build and run your code to see if it works. If you encounter any build errors, you'll have to resolve those, then build and run the game again.
 
 ### Complete Code
-The complete code for iteration two can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_2.cpp).
+The complete code for iteration two can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_2.cpp).
