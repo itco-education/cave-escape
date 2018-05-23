@@ -1,7 +1,7 @@
 __Iteration ten is the final iteration for the game! In this final iteration we will add a menu to the game so that it only starts when the player is ready.__
 
 ## Iteration ten will look like:
-![Iteration Ten](./Images/iteration_10.gif)
+![Iteration Ten](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_10.gif)
 
 ## Code
 

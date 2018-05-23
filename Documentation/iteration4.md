@@ -1,7 +1,7 @@
 __In the fourth iteration of **Cave Escape**, we will actually implement the ability to have you control the way the player flies. Instead of the player just falling into the abyss, as it was in iteration three, iteration four sees the inclusion of the logic required to keep the player on the screen by using keyboard input. In particular, we're going to make it so that every time the space bar is pressed, the player is going to fly a little higher, and further away from the bottom of the screen.__
 
 ## Iteration Four will look like:
-![Iteration Four](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_4.gif)
+![Iteration Four](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_4.gif)
 
 ## Code
 
@@ -70,4 +70,4 @@ The ```main()``` procedure has now changed. Notice that in the game loop, there'
 Now it's time for you to have a go at implementing iteration four on your own.
 
 ### Complete Code
-The complete code for iteration four can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_4.cpp).
+The complete code for iteration four can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_4.cpp).

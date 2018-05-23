@@ -1,7 +1,7 @@
 __In the sixth iteration of *Cave Escape*, we're going to make a few additions to ensure that once the poles move off the far left of the screen, they get moved back to their default position. This will ensure that the poles can be reused as obstacles.__
 
 ## Iteration Six will look like:
-![Iteration Six](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_6.gif)
+![Iteration Six](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_6.gif)
 
 ## Code
 
@@ -42,4 +42,4 @@ Not in this iteration. Hurray!
 Now it's time for you to have a go at implementing iteration six on your own.
 
 ### Complete Code
-The complete code for iteration six can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_6.cpp).
+The complete code for iteration six can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_6.cpp).

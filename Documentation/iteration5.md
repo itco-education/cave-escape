@@ -1,7 +1,7 @@
 __In the fifth iteration of *Cave Escape*, we add quite a bit of functionality; more so than in the previous iterations. We're making a big step with this one. We're going to add an obstacle, and we'll refer to the obstacle as a set of poles. It's the aim of the game to avoid the poles, but we'll worry about that later. For now, let's just worry about getting the poles onto the screen. So, this iteration concerns the generation of a single set of poles as well as the way the poles behave.__
 
 ## Iteration Five will look like:
-![Iteration Five](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_5.gif)
+![Iteration Five](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_5.gif)
 
 ## Code
 
@@ -115,4 +115,4 @@ The ```main()``` procedure has now changed. Notice that we're now using our new 
 Now it's time for you to have a go at implementing iteration five on your own.
 
 ### Complete Code
-The complete code for iteration five can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_5.cpp).
+The complete code for iteration five can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_5.cpp).

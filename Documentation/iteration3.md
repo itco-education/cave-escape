@@ -1,7 +1,7 @@
 __In the third iteration of *Cave Escape*, you will implement the functionality to give your player the ability to fly! Well, almost. You're going to add some velocity to the player so that it's not just stuck in the middle of the screen. Instead, when you're finished, the player will fall right off the bottom of the screen!__
 
 ## Iteration Three will look like:
-![Iteration Three](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_3.gif)
+![Iteration Three](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_3.gif)
 
 ## Code
 
@@ -74,4 +74,4 @@ The ```main()``` procedure has now changed. Notice that in the game loop, there'
 Now it's time for you to have a go at implementing iteration three on your own. Give it a crack and see how you go.
 
 ### Complete Code
-The complete code for iteration three can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_3.cpp).
+The complete code for iteration three can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_3.cpp).

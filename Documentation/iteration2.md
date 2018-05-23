@@ -1,7 +1,7 @@
 **In the second iteration of *Cave Escape*, you will implement the functionality to have your game draw a player character to the screen. The player will be drawn to the centre of the graphics window and come complete with an animation!**
 
 ## Iteration Two will look like:
-![Iteration Two](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_2.gif)
+![Iteration Two](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_2.gif)
 
 ## Code
 

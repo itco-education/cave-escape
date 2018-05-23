@@ -1,7 +1,7 @@
 __In iteration seven of *Cave Escape*, we're going to implement the logic to have more than one set of poles. One set of poles is simply not challenging enough, and the overall change in logic to suit such functionality is quite minor.__
 
 ## Iteration Seven will look like:
-![Iteration Seven](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_7.gif)
+![Iteration Seven](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_7.gif)
 
 ## Code
 
@@ -98,4 +98,4 @@ Instead of the variable ```game_poles``` being a value of ```pole_data```, it is
 Now it's time for you to have a go at implementing iteration seven on your own.
 
 ### Complete Code
-The complete code for iteration seven can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_7.cpp).
+The complete code for iteration seven can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_7.cpp).

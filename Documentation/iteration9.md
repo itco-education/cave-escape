@@ -1,7 +1,7 @@
 __Iteration nine is going to be quite a big one too, where there are some big changes to improve gameplay in order to make our game...more of a game. In this iteration, we're going to add some music to give the game its own little soundtrack, which will make the experience more immersive. The big changes, on top of the music, are the addition of collisions, so the player can collide with the environment, a scoring system and the ability to have the game reset if the player does collide with the environment. Iteration nine very nearly implements a completely functional game, ready for shipping.__
 
 ## Iteration nine will look like:
-![Iteration Nine](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Resources/Images/iteration_9.gif)
+![Iteration Nine](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_9.gif)
 
 ## Code
 
@@ -261,4 +261,4 @@ Main has not changed.
 Now it's time for you to have a go at implementing iteration nine on your own.
 
 ### Complete Code
-The complete code for iteration nine can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/CaveEscape/src/cave_escape_9.cpp).
+The complete code for iteration nine can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_9.cpp).

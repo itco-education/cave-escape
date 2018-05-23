@@ -7,7 +7,7 @@
 
 ## Iteration One will look like:
 
-![Iteration One]()
+![Iteration One](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_1.png)
 
 ## Code
 

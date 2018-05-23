@@ -1,7 +1,7 @@
 __In iteration eight of *Cave Escape*, we're going to focus on polishing the game in terms of visual aesthetics and code presentation. Visually, the game is going to be practically complete after the eighth iteration. We're going to include a scrolling background for the game to help set the scene. The code tidy up involved in iteration eight is purely for convention and to conform to best practice of having well presented, readable code. This iteration sees the addition of nine new code additions, so it is quite busy.__
 
 ## Iteration Eight will look like:
-![Iteration Eight](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_8.gif)
+![Iteration Eight](https://raw.githubusercontent.com/itco-education/cave-escape/master/Documentation/Images/iteration_8.gif)
 
 ## Code
 
