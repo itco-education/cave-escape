@@ -1,7 +1,7 @@
 __Iteration ten is the final iteration for the game! In this final iteration we will add a menu to the game so that it only starts when the player is ready.__
 
 ## Iteration ten will look like:
-![Iteration Ten](https://raw.githubusercontent.com//cave-escape/master/Documentation/Resources/Images/iteration_10.gif)
+![Iteration Ten](./Images/iteration_10.gif)
 
 ## Code
 
@@ -142,4 +142,4 @@ It really does.
 Now it's time for you to have a go at implementing iteration ten on your own. You've done really well and you're pretty much done!
 
 ### Complete Code
-The complete code for iteration ten can be found [here](https://raw.githubusercontent.com//cave-escape/master/CPP/CaveEscape/src/cave_escape_10.cpp).
+The complete code for iteration ten can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_10.cpp).
