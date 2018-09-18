@@ -25,7 +25,7 @@ class player_data:
         self.is_dead = _is_dead
         self.state = _state
 ```
--  Now because of the addition of the enumeration ```player_state```, we've changed the ```player_data``` struct to house the current game state. The new field is called ```state```.
+-  Now because of the addition of the enumeration ```player_state```, we've changed the ```player_data``` class to house the current game state. The new field is called ```state```.
 
 #### Addition Three
 ```python

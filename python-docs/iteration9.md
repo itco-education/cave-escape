@@ -26,7 +26,7 @@ class player_data:
         self.score = _score
         self.is_dead = _is_dead
 ```
-- We've added a new struct called ```player_data```. Our player can no longer just be a sprite. If you take a look at the struct, you'll notice it has three fields. The first of which is our player sprite. The next being the ```score``` and the third being a field called ```is_dead```. We need this field to tell the game when the player dies from colliding with the environment.
+- We've added a new class called ```player_data```. Our player can no longer just be a sprite. If you take a look at the class, you'll notice it has three fields. The first of which is our player sprite. The next being the ```score``` and the third being a field called ```is_dead```. We need this field to tell the game when the player dies from colliding with the environment.
 
 #### Addition Three
 ```python
@@ -36,7 +36,7 @@ class game_data:
         self.poles = _poles
         self.player = _player
 ```
-- The ```game_data``` struct has changed only slightly. Instead of the ```player``` field being a sprite, it is now a value of our new struct ```player_data```.
+- The ```game_data``` class has changed only slightly. Instead of the ```player``` field being a sprite, it is now a value of our new class ```player_data```.
 
 #### Addition Four
 ```python

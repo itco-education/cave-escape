@@ -62,7 +62,7 @@ def get_new_scene():
     return scene_data(resultBackground, resultForeground, resultForeroof)
 }
 ```
-- Now, we need some logic in order to be able to add the background to the game so that we can see it. To do that, we've added a new function called ```get_new_scene()```, which is responsible for generating the data associated with the scene. This function behaves similarly to the functions ```get_new_player()``` and ```get_random_poles()```. The function ```get_new_scene()``` returns a value of ```scene_data```, and as you can see, it is responsible for setting all of the values within the ```scene_data``` struct. It sets the sprites for the ```background```, ```foreground``` and ```foreroof```, as well as their locations and the animation for the ```foreground``` sprite. Because the background has a scrolling effect, the delta x, or horizontal movement speed of the three sprites have been set accordingly.
+- Now, we need some logic in order to be able to add the background to the game so that we can see it. To do that, we've added a new function called ```get_new_scene()```, which is responsible for generating the data associated with the scene. This function behaves similarly to the functions ```get_new_player()``` and ```get_random_poles()```. The function ```get_new_scene()``` returns a value of ```scene_data```, and as you can see, it is responsible for setting all of the values within the ```scene_data``` class. It sets the sprites for the ```background```, ```foreground``` and ```foreroof```, as well as their locations and the animation for the ```foreground``` sprite. Because the background has a scrolling effect, the delta x, or horizontal movement speed of the three sprites have been set accordingly.
 
 #### Addition Five
 ```python
