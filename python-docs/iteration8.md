@@ -156,4 +156,4 @@ Look how tidy the ```main()``` procedure looks now after our code tidy up. We no
 Now it's time for you to have a go at implementing iteration eight on your own.
 
 ### Complete Code
-The complete code for iteration eight can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_8.cpp).
+The complete code for iteration eight can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_8.py).

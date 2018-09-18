@@ -61,4 +61,4 @@ The ```main()``` procedure has now changed. Notice that in the game loop, there'
 Now it's time for you to have a go at implementing iteration four on your own.
 
 ### Complete Code
-The complete code for iteration four can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_4.cpp).
+The complete code for iteration four can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_4.py).

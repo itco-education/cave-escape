@@ -63,4 +63,4 @@ The ```main()``` procedure has now changed. Notice that in the game loop, there'
 Now it's time for you to have a go at implementing iteration three on your own. Give it a crack and see how you go.
 
 ### Complete Code
-The complete code for iteration three can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_3.cpp).
+The complete code for iteration three can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_3.py).

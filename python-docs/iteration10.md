@@ -110,4 +110,4 @@ It really does.
 Now it's time for you to have a go at implementing iteration ten on your own. You've done really well and you're pretty much done!
 
 ### Complete Code
-The complete code for iteration ten can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_10.cpp).
+The complete code for iteration ten can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_10.py).

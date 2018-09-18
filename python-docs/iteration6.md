@@ -40,4 +40,4 @@ Not in this iteration. Hurray!
 Now it's time for you to have a go at implementing iteration six on your own.
 
 ### Complete Code
-The complete code for iteration six can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_6.cpp).
+The complete code for iteration six can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_6.py).

@@ -76,4 +76,4 @@ Instead of the variable ```game_poles``` being a value of ```pole_data```, it is
 Now it's time for you to have a go at implementing iteration seven on your own.
 
 ### Complete Code
-The complete code for iteration seven can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/CPP/cave_escape_7.cpp).
+The complete code for iteration seven can be found [here](https://raw.githubusercontent.com/itco-education/cave-escape/master/python/iteration_7.py).
