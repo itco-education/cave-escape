@@ -3,7 +3,9 @@
 * The term *boiler plate code* is used to describe code that almost all programs will need - common code.
 
 ## Step 0
-[Download the resources for Cave-Escape](https://github.com/itco-education/cave-escape/releases/download/resources/Resources.zip)
+[Download the resources for Cave-Escape](https://drive.google.com/uc?authuser=0&id=13n0Yza-bXIfjfFjTPMjwlt1zAa76tXe7&export=download)
+
+Open Visual Studio, or the text editor you chose to use, and open the folder you downloaded. The code we will be writing will be in `program.py`.
 
 ## Iteration One will look like:
 
