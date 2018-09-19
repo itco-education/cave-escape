@@ -18,7 +18,6 @@ def get_new_player():
     sprite_start_animation_named(result, "Fly")
 
     return result
-}
 ```
 - The ```get_new_player()``` function, as demonstrated in the code above, is used to generate the data associated with the player entity that we'll be using in our game. It's important to note that the function uses a variable called ```result``` to store the value that is calculated. So, in short, the function is creating a sprite for the player, setting the sprite's location to the centre of the screen and then setting an animation for the sprite. Once the function finishes, it returns the sprite it creates (the ```result``` variable).
 
