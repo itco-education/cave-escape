@@ -72,7 +72,6 @@ def get_random_poles():
     sprite_set_dx(resultDownPole, FOREGROUND_SCROLL_SPEED)
 
     return pole_data(True, resultUpPole, resultDownPole)
-}
 ```
 - The ```get_random_poles()``` function has also changed. Only slightly, though. Notice that the function now sets the ```pole_data``` value that it returns to have a ```score_limiter``` value of ```true```. Additionally, the positioning of the poles in terms of their vertical position is random. Because we have the roof and the floor, we can position the poles more dynamically. Now, we're going to use the ```score_limiter``` to increment the score of the player every time they pass a set of poles. Once they pass a set of poles, the player's score will be incremented and the ```score_limiter``` for that set of poles will be set to ```false```. The reasoning behind this will become more clear when we talk about the changes made to ```update_poles()```.
 
