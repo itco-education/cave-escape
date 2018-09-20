@@ -20,7 +20,7 @@ FOREGROUND_SCROLL_SPEED = -2
 
 #### Addition Two
 ```python
-class pole_data():
+class pole_data:
     def __init__(self, _score_limiter, _up_pole, _down_pole):
         self.score_limiter = _score_limiter
         self.up_pole = _up_pole
