@@ -8,15 +8,6 @@ __Iteration nine is going to be quite a big one too, where there are some big ch
 ### New Code
 The new code in iteration nine is as follows:
 
-#### Addition One
-```python
-class pole_data:
-    def __init__(self, _score_limiter, _up_pole, _down_pole):
-        self.score_limiter = _score_limiter
-        self.up_pole = _up_pole
-        self.down_pole = _down_pole
-```
-- You may have been wondering what the bool ```score_limiter``` in ```pole_data``` is for. Well, it finally has a use in this iteration! We need this to be able to make the scoring system work. We'll talk more about it soon. Promise.
 
 #### Addition Two
 ```python
