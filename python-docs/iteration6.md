@@ -36,6 +36,16 @@ def update_poles(poles):
 ### Any Changes to Main
 Not in this iteration. Hurray!
 
+In Main, instead of: 
+
+```python
+get_random_poles()
+```
+to:
+```python
+game_poles = get_random_poles()
+```
+
 ### Have a Crack
 Now it's time for you to have a go at implementing iteration six on your own.
 
